@@ -812,3 +812,6 @@ python test2.py
 python test1.py
 python menu.py
 vim  menu.py
+ls
+git init
+git push
