@@ -100,7 +100,7 @@ def display_date_and_time():
     print("hello")
 
 def update_system_packages():
-    sp.call("sudo apt-get update && sudo apt-get upgrade -y", shell=True)
+    sp.run("sudo apt-get update && sudo apt-get upgrade -y", shell=True)
 
 
 def check_system_information():

@@ -1,100 +1,3 @@
-ssh -i "jenkinspro.pem" ec2-user@ec2-65-0-203-203.ap-south-1.compute.amazonaws.com
-clear
-maven
-docker
-docker images
-                          
-                         
-                          
-                         
-                          
-                                                
-                          
-                         
-                          
-                         
-                          
-                      sudo su -
-docker login
-docker images
-docker login
-systemctl status docker
-docker logs
-docker ps
-docker ps -as
-docker ps as
-docker ps -a
-docker images
-systemctl stop firewalld
-docker
-systemctl status docker
-vim /usr/lib/systemd/system/docker.servic
-systemctl status docker
-vim /usr/lib/systemd/system/docker.service
-systemctl deamon-reload
-systemctl daemon-reload
-systemctl restart docker
-systemctl status docker
-exit
-docker 
-cat /root/.docker/config.json
-docker ps
-docker ps -a
-docker ps  -a
-exit
-clear
-dir
-systemctl status docker
-systemctl status httpd
-yum install httpd  -y && syste
-systemctl start httpd 
-systemctl enable httpd
-CLEAR
-ls
-docker
-systemctl status httpd
-vim /usr/lib/systemd/system/httpd.service
-cd /etc
-cd httpd
-ls
-cd conf
-ls
-vim httpd.conf
-docker
-mvn --version
-git clone https://peerxp.vegaops.com/devops-assignment/Java_011022_9200.git
-ls
-cd Java_011022_9200
-ls
-mvn clean 
-docker package
-mvn package
-ls
-docker build -t  myimage:v1 .
-docker images
-docker build -t  /ppraveen11/myimage:v1 .
-docker build -t   ppraveen11/myimage:v1 .
-docker build -t   ppraveen11/myimage:v2  .
-docker images
-docker run -dit --name myos  -p 80:8080    d838a2d194d9
-docker ps
-docker ps -a
-docker start  myos
-docker run -dit --name myos1  -p 12:8080    d838a2d194d9
-docker ps
-systemctl restart httpd
-netstat -tnlp
-ls
-ls -a
-docker build -t  myimage:3 .
-DOCKER_BUILDKIT=1  docker build  -t test123  .
-docker images
-docker
-docker ps
-docker images
-docker pull ubuntu
-docker run -it --name test1 ubuntu:latest
-docker images
 docker login 
 docker images | grep ubuntu
 docker tag ubuntu:latest  ppraveen11/docker-mvn:v1
@@ -815,3 +718,283 @@ vim  menu.py
 ls
 git init
 git push
+clear
+ls
+cd project
+ls
+bash setup.sh 
+ls
+cd ..
+ls
+bash menu.py
+bash mtest3.py
+bash test1.py
+bash test2.py
+ls
+cd /
+ls
+cd ..
+ls
+cd ..
+cd ~
+ls
+bash menu.py
+dir
+ls
+ls -l
+git init
+git branch -m
+LS
+l
+ls
+git init
+ls
+git add https://github.com/ppraveen11/menu_scripts_testing.git
+git add git@github.com:ppraveen11/menu_scripts_testing.git
+git add .
+git rm --cached Java_011022_9200
+git status
+ls
+rm Java_011022_9200
+rmdir  Java_011022_9200
+rm
+rm --help
+rm -r  Java_011022_9200
+rm -rf  Java_011022_9200
+ls
+git init
+git add .
+git commit -m "first-commit"
+ls
+git undo
+git status
+ls
+git add .
+git branch -M main
+git remote add origin git@github.com:ppraveen11/menu_scripts_testing.git
+git push -u origin main
+git remote -v
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+cls
+clear
+git config --global user.name praveen
+git config --global user.email ppraveen5974@gmail.com
+ssh-keygen 
+cat /root/.ssh/id_rsa.pub
+git remote add origin git@github.com:ppraveen11/menu_scripts_testing.git
+git push -u origin main
+git status
+ls
+cd project
+git init
+git add .
+git status
+cd ..
+git push -u origin main
+git statsu
+git status
+git add /project
+ls
+git add project
+git status
+git commit -m "first-commit"
+git push 
+git add .
+git add project
+git status
+git commit -m "first-commit"
+git status
+git push -u origin main
+git status
+git add /project
+cd project
+pwad
+pwd 
+cd ..
+git add /root/project
+git status
+git add /root/project
+gti commit -a "sec"
+git commit -a "sec"
+git commit -m "first-commit"
+git commit -m "sec-commit"
+git commit -m -a "sec-commit"
+git add /root/project
+git commit -m -a "sec-commit"
+git push -u origin main
+git push 
+git init
+git push -u origin main
+git push 
+ls
+test2.py
+bash test2.py
+cat menu.py
+bash  menu.py
+ls
+ls
+cd project
+ls
+cd ..
+ls
+vim test2.py
+vim mtest3.py
+ls
+python mtest3.py
+vim mtest3.py
+python mtest3.py
+vim mtest3.py
+ct  mtest3.py
+ls
+vim mtest3.py
+python mtest3.py
+vim mtest3.py
+vi mtest3.py
+python mtest3.py
+vi mtest3.py
+python mtest3.py
+ld
+ls
+python mtest3.py
+ls
+vi mtest3.py
+python mtest3.py
+vi mtest3.py
+python mtest3.py
+vi mtest3.py
+python mtest3.py
+vi mtest3.py
+python mtest3.py
+vi mtest3.py
+python mtest3.py
+vi mtest3.py
+python mtest3.py
+vi mtest3.py
+python mtest3.py
+vi mtest3.py
+python  mtest3.py
+vi mtest3.py
+python  mtest3.py
+vi mtest3.py
+python  mtest3.py
+vi mtest3.py
+python  mtest3.py
+clear
+python  mtest3.py
+vi mtest3.py
+python  mtest3.py
+vi mtest3.py
+python3  mtest3.py
+vi mtest3.py
+ls
+python mtest3.py
+clear
+ls
+python mtest3.py
+clear
+ls
+mkdir 1menu_project
+cd 1menu_project/
+ls
+cd ..
+ls
+mkdir linux_Tool_Kit
+cp mtest3.py linux_Tool_Kit/
+cd linux_Tool_Kit/
+ls
+clear
+ls
+vim mtest3.py 
+subprocess
+ls
+vim mtest3.py 
+yum whatprovides firewalld
+ls
+vim mtest3.py 
+python mtest3.py 
+python version
+python --help
+python -V
+yum install python3.5
+yum whatprovides python:latest
+yum whatprovides python
+sudo yum update
+ls
+docker
+yum remove docker
+ansibel
+ansible
+docker images
+sudo yum update
+yum install docker
+docker
+yum install docker-ce
+cd ..
+setenforce 0
+cd /etc/yum.repos.d
+ls
+terraform
+yum clean terraform
+yum remove  terraform
+yum clean
+yum 
+yum list
+yum install python36
+clean
+clear
+yum install python36
+ls
+clear
+ls
+clear
+ls
+cd linux_Tool_Kit/
+ls
+python mtest3.py 
+yum update
+yum remove java
+yum update
+yum clean
+yum clean httpd
+yum remove  httpd
+docker
+ls
+cd /etc/yum.repos.d
+ls
+jenkins
+kubectl
+yun remove jenkins
+yum clean
+yum clean packages
+yum install python36
+yum whatprovides python36
+docker
+yum install docker
+docker
+docker images
+systemctl start docker
+docker images
+docker rmi $(docker images -a -q)
+docker images
+docker rmi $(docker images -a -q)
+docker rmi $(docker images -af -q)
+docker images
+docker rmi -f 52562344d811
+docker images
+docker rmi -f e88a065848be
+docker images
+yum update
+python -V
+yum whatprovides python36
+cd /etc/yum.repos.d
+ls
+sudo yum install epel-release
+yum install python
+yum install python36
+yum whatprovides  python36
+ls
+cd linux_Tool_Kit/
+ls
+sudo yum install epel-release
+python -V
+yum whatprovides python
